@@ -1,0 +1,106 @@
+1
+1
+101
+Ender's Game
+Card, Orson Scott
+1985
+ABC 100
+1
+1
+102
+Dune
+Herbert, Frank
+1965
+ABC 101
+1
+2
+110
+Foundation
+Asimov, Isaac
+1951
+ABC 102
+1
+2
+111
+Hitch Hiker's Guide to the Galaxy
+Adams, Douglas
+1979
+ABC 103
+1
+1
+112
+1984
+Orwell, George
+1949
+ABC 104
+1
+1
+113
+Stranger in a Strange Land
+Heinlein, Robert A.
+1961
+ABC 105
+1
+2
+114
+Farenheit 451
+Bradbury, Ray
+1954
+ABC 106
+1
+1
+115
+2001:  A Space Odyssey
+Clarke, Arthur C.
+1968
+ABC 107
+1
+1
+116
+I, Robot
+Asimov, Isaac
+1950
+ABC 108
+1
+1
+117
+Starship Troopers
+Heinlein, Robert A.
+1959
+ABC 109
+1
+1
+118
+Do Androids Dream of Electric Sheep?
+Dick, Philip K.
+1968
+ABC 110
+1
+2
+119
+Neuromancer
+Gibson, William
+1984
+ABC 111
+1
+2
+120
+Ringworld
+Niven, Larry
+1970
+ABC 112
+1
+1
+121
+Rendezvous with Rama
+Clarke, Arthur C.
+1973
+ABC 113
+1
+1
+122
+Hyperion
+Simmons, Dan
+1989
+ABC 114
+0

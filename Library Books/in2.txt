@@ -1,0 +1,141 @@
+1
+2
+201
+The Sixth Extinction
+Kolbert, Elizabeth
+2014
+ABC 001
+1
+2
+202
+The Year of Magical Thinking
+Didion, Joan
+2005
+ABC 002
+1
+2
+203
+No Logo
+Klein, Naomi
+1999
+ABC 003
+1
+2
+204
+Birthday Letters
+Hughes, Ted
+1998
+ABC 004
+1
+2
+205
+Dreams from My Father
+Obama, Barack
+1995
+ABC 005
+1
+2
+206
+A Brief History of Time
+Hawking, Stephen
+1988
+ABC 006
+1
+2
+207
+The Right Stuff
+Wolfe, Tom
+1979
+ABC 007
+1
+2
+208
+Orientalism
+Said, Edward
+1978
+ABC 008
+1
+2
+209
+Dispatches
+Herr, Michael
+1977
+ABC 009
+1
+2
+210
+The Selfish Gene
+Dawkins, Richard
+1976
+ABC 010
+1
+1
+101
+To Kill a Mockingbird
+Lee, Harper
+1906
+XYZ 801
+1
+1
+102
+1984
+Orwell, George
+1950
+XYZ 802
+1
+1
+103
+The Lord of the Rings (#1-3)
+Tolkien, J.R.R.
+1955
+XYZ 803
+1
+1
+104
+The Catcher in the Rye
+Salinger, J.D.
+1951
+XYZ 804
+1
+1
+105
+The Great Gatsby
+Fitzgerald, F. Scott
+1925
+XYZ 805
+1
+1
+106
+Catch-22
+Heller, Joseph
+1961
+XYZ 806
+1
+1
+107
+Gone with the Wind
+Mitchell, Margaret
+1936
+XYZ 807
+1
+1
+108
+Watchmen
+Moore, Alan
+1987
+XYZ 808
+1
+1
+109
+Invisible Man
+Ellison, Ralph
+1952
+XYZ 809
+1
+1
+110
+The Blind Assassin
+Atwood, Margaret
+2000
+XYZ 810
+0
